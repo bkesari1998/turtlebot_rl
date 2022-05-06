@@ -1,6 +1,6 @@
 # probrobfinalproj
 
-This repository contains the ROS nodes and edited main and ppo network code to run the navigation task on the physical robot.
+This repository contains the ROS nodes and edited main and ppo network code to run the navigation task on the physical robot. All three group members (Bharat, Zach, and Niko) contributed to this porition of the code.
 
 ## ROS Nodes
 
